@@ -1,0 +1,5 @@
+{ "@xmlns": "urn:ebay:apis:eBLBaseComponents"
+, "ErrorLanguage": "en_US"
+, "WarningLevel": "High"
+, "DetailLevel": "ReturnAll"
+}

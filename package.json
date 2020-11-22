@@ -1,0 +1,16 @@
+{ "name" : "ebay-api-next"
+, "description" : "eBay API wrapper in ECMAscript@next"
+, "keywords" : [ "ebay", "ebay-api", "api" ]
+, "version" : "0.0.4"
+, "license" : "MIT"
+, "main" : "index.js"
+
+, "author" : "Dym Sohin <re@dym.sh>"
+, "homepage" : "https://dym.sh/ebay-api-next"
+, "repository" : "https://github.com/dym-sh/ebay-api-next"
+
+, "dependencies"
+: { "node-fetch" : "^2.0.0-alpha.9"
+  , "xml2json" : "^0.11.0"
+  }
+}
